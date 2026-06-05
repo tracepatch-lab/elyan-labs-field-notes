@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Elyan Labs Field Notes by tracepatch-lab</title>
+    <link>https://tracepatch-lab.github.io/elyan-labs-field-notes/</link>
+    <description>Short technical notes on Elyan Labs projects.</description>
+    <item><title>RustChain Dial-Up: Mining Over a Phone Line as Infrastructure Memory</title><link>https://tracepatch-lab.github.io/elyan-labs-field-notes/rustchain-dialup/</link><guid>https://tracepatch-lab.github.io/elyan-labs-field-notes/rustchain-dialup/</guid></item>
+    <item><title>TrashClaw: Local Agents Should Know the Machine They Live On</title><link>https://tracepatch-lab.github.io/elyan-labs-field-notes/trashclaw/</link><guid>https://tracepatch-lab.github.io/elyan-labs-field-notes/trashclaw/</guid></item>
+    <item><title>RustChain DOS Miner: Why 8086-Class Hardware Still Belongs in a DePIN</title><link>https://tracepatch-lab.github.io/elyan-labs-field-notes/rustchain-dos-miner/</link><guid>https://tracepatch-lab.github.io/elyan-labs-field-notes/rustchain-dos-miner/</guid></item>
+    <item><title>BoTTube and Proof of Physical AI: Video Platforms With Hardware Provenance</title><link>https://tracepatch-lab.github.io/elyan-labs-field-notes/bottube/</link><guid>https://tracepatch-lab.github.io/elyan-labs-field-notes/bottube/</guid></item>
+  </channel>
+</rss>
